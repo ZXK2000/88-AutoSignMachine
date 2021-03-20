@@ -17,7 +17,7 @@ NOTIFY_SCKEY（service酱得key）
 
 #多用户配置
 
-https://github.com/你的用户名/88-AutoSignMachine/settings/secrets/actions 然后点击New repository secret
+https://github.com/你的用户名/88-AutoSignMachine/settings/secrets/actions 然后击New repository secret
 
 unicom_user2（手机号）
 
